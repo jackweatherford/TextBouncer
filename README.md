@@ -1,5 +1,5 @@
 # TextBouncer
-Bounces specified text around a transparent screen.
+Bounces specified text/image around a transparent screen.
 
 ## Instructions
 - ```pip install -r requirements.txt```
